@@ -210,9 +210,9 @@ task Consolidate {
     File consolidatedCalls = outputName
     File consolidatedCallsIdx = outputName + ".idx"
   }
+
   meta {
         description: "This workflow collects the variants for a single participant from the master 1000 Genomes Projects Phase 3 data  stored as separate per-chromosome VCFs in GCS by Google Genomics (as mirror of the EBI site) and consolidates them 
 over all chromosomes."
   }
-
 }
