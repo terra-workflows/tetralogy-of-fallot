@@ -8,7 +8,7 @@ By analysing high-throughput exome sequence data from 867 cases and 1252 control
 
 
 - **Paper URL:** https://www.ahajournals.org/doi/abs/10.1161/CIRCRESAHA.118.313250 (This workspace is based on the [preprint](https://www.biorxiv.org/content/early/2018/04/13/300905))
-- **Workflows:** see [Method Configurations](https://portal.firecloud.org/#workspaces/workshop-ashg18/ASHG18-ToF-Reproducible-Paper/method-configs)
+- **Workflows:** see [Tools](https://app.terra.bio/#workspaces/workshop-ashg18/ASHG18-ToF-Reproducible-Paper/tools)
 - **Notebook:** [download from Google Cloud Storage](https://storage.cloud.google.com/firecloud-workshops/181017-ashg18/notebooks/cluster_analysis.ipynb)
 - **Precomputed results:** [view in Google Cloud Storage](https://console.cloud.google.com/storage/browser/firecloud-workshops/181017-ashg18 )
 
