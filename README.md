@@ -60,10 +60,10 @@ Throughout this project, we strove to apply the same versions of all the tools u
 | Gemini | 0.18.2 |
 | CADD | 1.3 |
 
-###Notebooks - Clustering Analysis###
+### Notebooks - Clustering Analysis
 This workspace contains Jupyter notebooks that reproduce the clustering analysis at the core of the ToF study results. Annotations explain each analysis step and the cell blocks contain the code. The notebooks contained in the Featured Workspace are set to run on the 100-sample cohort, and running the notebook will identify the NOTCH-1 gene as a candidate for deleterious variants responsible for ToF, but not number one. Changing to the 500-sample cohort (by editing the code block in the notebook) delivers the analysis from the original paper, with NOTCH-1 the top candidate. Thus the critical clustering analysis reveals how boosting the statistical power of the synthetic sample set allows us to more closely emulate the ToF study.
 
-##Best Practices for “reproducible” research ##
+## Best Practices for “reproducible” research
 Several features within this workspace enabled us to reproduce the ToF study. Incorporating these will help others reproduce and validate your own work precisely and exactly.
 
 - **Version-controlled code** Capturing the version used for processing and analysing data is critical for exact reproducibility.
